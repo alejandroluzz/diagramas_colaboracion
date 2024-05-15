@@ -10,7 +10,7 @@ background: https://cover.sli.dev
 Participantes: Francisco Rojano, Miguel Martin, Alberto Mármol, Alejandro Luz <br>
 Antonio Gómez, Antonio Matas, Rubén Salcedo y Javier Ordoñez.
 
-ASIGNATURA: Entornos de Desarrollo.
+ASIGNATURA: Entornos de Desarrollo
 
 CURSO: 1º DAM.
 
